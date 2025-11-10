@@ -50,4 +50,4 @@ npm run dev
 
 ## Estructura del archivo .txt de preguntas
 
-Cada línea del archivo será una pregunta. Las preguntas se asociarán al código que indiques al cargar.
+Cada línea del archivo será una pregunta.
